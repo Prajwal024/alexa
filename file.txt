@@ -1,2 +1,6 @@
 Line in master
+<<<<<<< HEAD
 Different line in master
+=======
+Line in branch1
+>>>>>>> branch1
