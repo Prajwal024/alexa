@@ -1,2 +1,1 @@
-Hello Prajwal 
-q
+Hello my name is Prajwal And I clone this repo from Github
