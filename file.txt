@@ -1,1 +1,2 @@
 Line in master
+Different line in master
